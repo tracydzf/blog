@@ -1,11 +1,10 @@
-title: TianYu GUO's homepage
+title: tracydzf's homepage
 subtitle: ''
 description: ''
 keywords: null
-author: TianYu GUO
+author: tracydzf
 language: en
-timezone: ''
-url: 'https://gty111.github.io/'
+url: https://tracydzf.github.io/
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:
@@ -48,22 +47,20 @@ index_generator:
   per_page: 20
   order_by: '-date'
 archive_generator:
-    per_page: 20
+  per_page: 20
 tag_generator:
-    per_page: 20
-category_generator: 
-    per_page: 20
+  per_page: 20
+category_generator:
+  per_page: 20
 default_category: uncategorized
 category_map: null
 tag_map: null
 meta_generator: true
 date_format: YYYY-MM-DD
-time_format: 'HH:mm:ss'
+time_format: HH:mm:ss
 updated_option: mtime
 per_page: 20
 pagination_dir: page
-include: null
-exclude: null
 ignore: null
 theme: icarus
 deploy:
